@@ -1,5 +1,6 @@
 # Vorlage für eine Regel Recherche
 
+
 Dieses file soll als Vorlage zur Recherche dienen.
 
 Als "Platzhalter" sind hier sämtliche Regeln aus der Recherche für die Kitas enthalten.
